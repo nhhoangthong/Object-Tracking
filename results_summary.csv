@@ -1,0 +1,6 @@
+tracker,avg_iou,avg_fps
+KCF,0.2070,576
+CSRT,0.5702,54
+MOSSE,0.2432,5512
+MedianFlow,0.2819,2345
+Kalman_PredictOnly,0.1761,240348
